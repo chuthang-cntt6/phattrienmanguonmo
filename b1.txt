@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: phattrienphanmemmo, Configuration: Debug Any CPU ------
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
+========== Build started at 6:59 PM and took 00.400 seconds ==========
